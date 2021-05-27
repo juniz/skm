@@ -169,7 +169,7 @@ class _PageOneState extends State<PageOne> {
                               'Tidak Ada',
                               'Ada Tetapi Tidak Berfungsi',
                               'Berfungsi Kurang Maksimal',
-                              'DIkelola Dengan Baik'
+                              'Dikelola Dengan Baik'
                             ],
                             onChanged: (value) =>
                                 controller.pengaduan.value = value,
